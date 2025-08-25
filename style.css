@@ -259,6 +259,8 @@ a {
     display: flex;
     flex-direction: column;
     align-items: center;
+    justify-content: center;
+    margin-right:30%;
 }
 
 .controls {
@@ -289,7 +291,7 @@ a {
 }
 
 .progress-bar {
-    width: 70%;
+    width: 80%;
     appearance: none; 
     background-color: transparent;
     cursor: pointer;
